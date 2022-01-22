@@ -9,3 +9,6 @@ Here are some cool things about me you might want to know:
 - ⚡ Fun fact: I ran my high schools Computer Science club from 2019-2021
 - 💻 The main languages I code in are Java and Python but I do a bit of HTML here and there
 
+Languages and Tools:
+Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+

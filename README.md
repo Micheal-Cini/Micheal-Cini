@@ -9,6 +9,9 @@
 - ⚡ Fun fact: I love to spend my spare time playing video games or ATVing
 - 💻 The main languages I code in are Java and Python but I do a bit of HTML here and there
 
+### Social Media:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -18,3 +21,7 @@
 <img align="left" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <br />
+
+
+[linkedin]: https://www.linkedin.com/in/micheal-cini-528b2522b/
+[twitter]: https://twitter.com/MichealCini

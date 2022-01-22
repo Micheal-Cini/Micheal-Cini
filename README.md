@@ -1,5 +1,4 @@
 ## Welcome to my profile! I'm Micheal 👋
-<br />
 
 ### Here are some cool things about me you might want to know:
 

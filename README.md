@@ -13,7 +13,7 @@ Here are some cool things about me you might want to know:
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="50px" src="https://th.bing.com/th/id/OIP.2W6dSbr7M8oPExCcjaplAgHaNl?pid=ImgDet&rs=1" />
+<img align="left" alt="Java" width="50px" src="https://th.bing.com/th/id/R.bdb887b847a007a8059a03d1f41e96c2?rik=o4Gam13bkfX7Fw&riu=http%3a%2f%2fzedlabo.com%2fwp-content%2fuploads%2f2015%2f10%2fjava_logo.png&ehk=JQ39ge8hzN5ax2yEeoPfs60BLzlh0vWykBGaR73cBjg%3d&risl=&pid=ImgRaw&r=0" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
